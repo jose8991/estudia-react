@@ -1,11 +1,11 @@
 import './App.css';
-import CardComponent from './component/cardComponent';
+import ProductsContainer from './organismos/ProductsContainer';
 
 function App() {
   return (
     <div className="App">
-      <div class="row">
-        <CardComponent/>
+      <div className ="row">
+        <ProductsContainer/>
       </div>
     </div>
   );
