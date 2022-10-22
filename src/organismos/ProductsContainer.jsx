@@ -4,7 +4,7 @@ function ProductsContainer(){
     return (
         <div className="container">
             <div className="row">
-            <CardComponent/>
+            <CardComponent title={'hola mundo'} img={'https://www.xtrafondos.com/wallpapers/paisaje-digital-en-atardecer-5846.jpg'}/>
             <CardComponent/>
             <CardComponent/>
             <CardComponent/>

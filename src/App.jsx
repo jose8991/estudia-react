@@ -7,7 +7,7 @@ function App() {
       <div className ="row">
         <ProductsContainer/>
       </div>
-    </div>
+    </div> 
   );
 }
 
